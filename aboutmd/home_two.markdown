@@ -1,8 +1,7 @@
 ---
-title: About us two portion
+title: "About us two portion"
 layout: common_page
 ---
-
 <section id="intro">
 	<div class="container">
 		<div class="row">
