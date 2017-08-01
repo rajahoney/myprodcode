@@ -10,7 +10,7 @@ layout: common_page
                     <div class="row">
                         <div class="col-md-12">
                             <div class="slider-caption">
-                                <h2><span id="textdecorator">Hai Yes &nbsp;What does Delta Hangar do? <span class="blinking-cursor">|</span></span></h2>
+                                <h2><span id="textdecorator">How are you<span class="blinking-cursor">|</span></span></h2>
                             </div>
                         </div>
                     </div> 
