@@ -10,7 +10,7 @@ date: 2017-08-01 15:30:00 Z
                     <div class="row">
                         <div class="col-md-12">
                             <div class="slider-caption">
-                                <h2><span id="textdecorator">Hai Yes &nbsp;What does Delta Hangar do? <span class="blinking-cursor">|</span></span></h2>
+                                <h2><span id="textdecorator">how are you Yes &nbsp;What does Delta Hangar do? <span class="blinking-cursor">|</span></span></h2>
                             </div>
                         </div>
                     </div> 
