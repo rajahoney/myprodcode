@@ -4,12 +4,12 @@ permalink: "/aboutmd/"
 layout: about
 ---
 
-{% include_relative aboutmd/home_one.html%}
+{% include_relative aboutmd/home_one.markdown%}
 
-{% include_relative aboutmd/home_two.html%}
+{% include_relative aboutmd/home_two.markdown%}
 
-{% include_relative aboutmd/home_three.html%}
+{% include_relative aboutmd/home_three.markdown%}
 
-{% include_relative aboutmd/portfolio_one.html%}
+{% include_relative aboutmd/portfolio_one.markdown%}
 
-{% include_relative aboutmd/portfolio_two.html%}
+{% include_relative aboutmd/portfolio_two.markdown%}
