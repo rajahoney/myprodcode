@@ -4,7 +4,7 @@ permalink: "/aboutmd/"
 layout: about
 ---
 
-{% include_relative aboutmd/home_one.markdown %}
+{% include_relative aboutmd/home_one.html%}
 
 {% include_relative aboutmd/home_two.markdown %}
 
