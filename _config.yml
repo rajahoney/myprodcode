@@ -21,4 +21,4 @@ defaults:
   values:
     layout: page
 permalink: pretty
-include: _site
+include: "- _site"
