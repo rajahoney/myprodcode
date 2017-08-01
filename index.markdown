@@ -1,7 +1,7 @@
 ---
-title: Delta The Hangar - home page
-permalink: "/"
 layout: page
+title: Delta The Hangar - home page
+permalink: /
 ---
 
 <section id="slider">
