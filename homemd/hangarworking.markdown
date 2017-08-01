@@ -1,5 +1,5 @@
 ---
-title: "Home Working To Banner"
+title: Home Working To Banner
 layout: common_page
 ---
 

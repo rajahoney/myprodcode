@@ -1,5 +1,5 @@
 ---
-title: "Home Slider Banner"
+title: Home Slider Banner
 layout: common_page
 ---
 

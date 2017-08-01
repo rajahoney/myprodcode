@@ -2,6 +2,7 @@
 title: About us banner
 date: 2017-08-01 15:30:00 Z
 ---
+
 <div id="home">
 	<div class="site-slider">
 				<img class="img-responsive about-bannerimgoveraide imageminwidth" src="/img/about_hero_desktop_1600.jpg">
