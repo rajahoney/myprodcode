@@ -1,6 +1,6 @@
 ---
 title: Delta The Hangar - Home
-permalink: /home/
+permalink: "/home/"
 layout: home
 ---
 
