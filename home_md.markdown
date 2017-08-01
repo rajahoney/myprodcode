@@ -1,5 +1,5 @@
 ---
-title: Delta The Hangar - Home
+title: Delta The Hangar - Home markdown to html compilation
 permalink: "/homemd/"
 layout: home
 ---
