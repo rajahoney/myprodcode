@@ -1,6 +1,6 @@
 ---
-title: Delta The Hangar - About .md to .html compilation
-permalink: "/aboutmd/"
+title: Delta The Hangar - About markdown to html compilation
+permalink: /aboutmd/
 layout: about
 ---
 
