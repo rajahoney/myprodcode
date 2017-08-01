@@ -1,6 +1,6 @@
 ---
 title: Delta The Hangar - About
-permalink: /about/
+permalink: "/about/"
 layout: about
 ---
 
