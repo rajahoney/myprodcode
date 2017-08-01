@@ -10,7 +10,7 @@ layout: common_page
 				<div class="col-md-12">
 					<div class="slider-caption belowspace">
 						<div class=" capitalHeading">
-							<h1 class="heading color-white">See Yourself at Delta Hangar?  </h1>
+							<h1 class="heading color-white"> Hai See Yourself at Delta Hangar?  </h1>
 							<br>
 								<br>
 
