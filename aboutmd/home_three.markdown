@@ -1,7 +1,8 @@
 ---
-title: "About us third portion"
+title: About us third portion
 layout: common_page
 ---
+
 <div id="home">
 	<div class="site-slider">
 		<img class="bannerimges imageminwidth project-imageminwidth" src="/img/aboutus_hightlights.jpg" alt="slider image 1">

@@ -1,6 +1,6 @@
 ---
 title: Delta The Hangar - About .md to .html compilation
-permalink: /aboutmd/
+permalink: "/aboutmd/"
 layout: about
 ---
 
