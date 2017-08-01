@@ -1,8 +1,7 @@
 ---
-title: About us Second portion
+title: "About us Second portion"
 layout: common_page
 ---
-
 <div id="home">
 	<div class="col-md-offset-2 col-md-8 fullwidth">
 		<h2 class="hangerHead">Where is the Hangar?</h2>
