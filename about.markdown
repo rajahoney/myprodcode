@@ -1,8 +1,8 @@
 ---
 title: Delta The Hangar - About
-permalink: /about/
-layout: about
 date: 2017-08-01 17:14:00 Z
+permalink: "/about/"
+layout: about
 ---
 
 {% include_relative /aboutmd/home_one/home_one.html %}
