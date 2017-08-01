@@ -1,7 +1,8 @@
 ---
-title: "About us Portfolio portion"
+title: About us Portfolio portion
 layout: common_page
 ---
+
 <section id="intro">
 	<div class="container enlagecontent">
 		<div class="row">

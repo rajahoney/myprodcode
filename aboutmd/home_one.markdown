@@ -1,7 +1,8 @@
 ---
-title: "About us banner"
+title: About us banner
 layout: common_page
 ---
+
 <div id="home">
 	<div class="site-slider">
 				<img class="img-responsive about-bannerimgoveraide imageminwidth" src="/img/about_hero_desktop_1600.jpg">
