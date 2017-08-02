@@ -32,3 +32,4 @@ gist:
   noscript: false
 kramdown:
   math_engine: mathjax
+plugins: [jekyll-coffeescript, jekyll-watch, jekyll-assets]
