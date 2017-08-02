@@ -1,11 +1,11 @@
 ---
-title: Delta The Hangar - Home markdown to html compilation
-permalink: "/homemd/"
+title: Delta The Hangar - Home
+permalink: /home/
 layout: home
 ---
 
-{% include_relative homemd/homepagebanner.markdown %}
+{% include_relative home/homepagebanner.markdown %}
 
-{% include_relative homemd/hangarworking.markdown %}
+{% include_relative home/hangarworking.markdown %}
 
-{% include_relative homemd/seeyourself.markdown %}
+{% include_relative home/seeyourself.markdown %}
