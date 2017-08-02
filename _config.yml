@@ -36,5 +36,4 @@ plugins:
 - jekyll-coffeescript
 - jekyll-watch
 - jekyll-assets
-
 theme: jekyll-theme-cayman
