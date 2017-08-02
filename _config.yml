@@ -23,15 +23,3 @@ defaults:
 permalink: pretty
 include:
 - _site
-lsi: false
-safe: true
-source: myprodcode
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-plugins:
-- jekyll-coffeescript
-- jekyll-watch
