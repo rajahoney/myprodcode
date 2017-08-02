@@ -1,7 +1,8 @@
 ---
-title: "Home Working To Banner"
+title: Home Working To Banner
 layout: common_page
 ---
+
 <section id="intro">
 	<div class="container">
 		<div class="row">

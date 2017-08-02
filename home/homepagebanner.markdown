@@ -1,7 +1,8 @@
 ---
-title: "Home Slider Banner"
+title: Home Slider Banner
 layout: common_page
 ---
+
 <section id="slider"> 
 	<div class="site-slider">
 		<ul class="bxslider">
