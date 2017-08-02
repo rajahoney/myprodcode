@@ -13,7 +13,7 @@ layout: common_page
 						<div class="col-md-12">
 							<div class="slider-caption">
 								<h2>
-									<span id="textdecorator">welcome hai What can we do for faster boarding?<span class="blinking-cursor">|</span>
+									<span id="textdecorator">welcome bye What can we do for faster boarding?<span class="blinking-cursor">|</span>
 									</span>
 								</h2>
 								<p class="color-white"> The Hangar sponsored several projects at the Georgia Institute of Technology's third-annual Hackathon. From real-time seating sensors to a tracker that monitors overhead bin usage, these innovative ideas help delta take off to better boarding.</p>
